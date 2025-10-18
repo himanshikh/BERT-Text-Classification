@@ -10,9 +10,6 @@ __pycache__/
 *.pt
 *.pth
 *.bin
-data/*
-!data/train_10k.txt
-!data/val_1k.txt
 results/
 models/
 checkpoints/
