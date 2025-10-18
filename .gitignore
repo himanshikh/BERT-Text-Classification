@@ -1,0 +1,23 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model and data files
+*.pt
+*.pth
+*.bin
+data/
+results/
+models/
+checkpoints/
+
+# Ignore environment folders
+env/
+venv/
+.idea/
+.DS_Store
+
