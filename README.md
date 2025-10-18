@@ -1,4 +1,4 @@
-# 🧠 BERT Fine-Tuning for Text Classification
+# BERT Fine-Tuning for Text Classification
 
 This project demonstrates how to fine-tune **BERT (Bidirectional Encoder 
 Representations from Transformers)** for a **binary text classification** 
@@ -6,14 +6,14 @@ task using **PyTorch**.
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 The goal is to classify sentences into predefined labels (e.g., 
 positive/negative sentiment) using transfer learning with a pretrained 
 BERT model (`bert-base-uncased`).
 
 ---
 
-## 🧩 Steps Implemented
+## Steps Implemented
 1. Data preprocessing from `train_10k.txt` and `val_1k.txt`
 2. Tokenization using HuggingFace’s BERT tokenizer
 3. Sequence padding and attention mask creation
@@ -22,8 +22,8 @@ BERT model (`bert-base-uncased`).
 
 ---
 
-## 🧰 Tech Stack
-- Python 🐍
+## Tech Stack
+- Python 
 - PyTorch
 - Transformers (HuggingFace)
 - scikit-learn
@@ -32,7 +32,7 @@ BERT model (`bert-base-uncased`).
 
 ---
 
-## 📊 Example Results
+## Example Results
 | Metric | Value |
 |:--|:--|
 | Training Accuracy | ~XX% |
@@ -42,7 +42,7 @@ BERT model (`bert-base-uncased`).
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 # Clone this repository
 git clone https://github.com/<your-username>/BERT-Text-Classification.git
