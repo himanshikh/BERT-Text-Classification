@@ -32,16 +32,6 @@ BERT model (`bert-base-uncased`).
 
 ---
 
-## Example Results
-| Metric | Value |
-|:--|:--|
-| Training Accuracy | ~XX% |
-| Validation Accuracy | ~XX% |
-
-*(You can update these values after running your notebook.)*
-
----
-
 ## How to Run
 ```bash
 # Clone this repository
